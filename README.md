@@ -8,10 +8,10 @@ I have used React for front end and used Tailwind CSS for the UI. I have used No
 
 
 ## Screenshots
-[Screenshots/sc1.png]
-[Screenshots/sc2.png]
-[Screenshots/sc3.png]
-[Screenshots/sc4.png]
+![sc1](https://github.com/Aarghyadeep/ArtVista---Art-marketplace/blob/7e41db3db7862793d0046f10357fdea6a65a8984/Screenshots/sc1.png)
+![sc2](https://github.com/Aarghyadeep/ArtVista---Art-marketplace/blob/7e41db3db7862793d0046f10357fdea6a65a8984/Screenshots/sc2.png)
+![sc3](https://github.com/Aarghyadeep/ArtVista---Art-marketplace/blob/7e41db3db7862793d0046f10357fdea6a65a8984/Screenshots/sc3.png)
+![sc4](https://github.com/Aarghyadeep/ArtVista---Art-marketplace/blob/7e41db3db7862793d0046f10357fdea6a65a8984/Screenshots/sc4.png)
 
 
 ## Run Locally
